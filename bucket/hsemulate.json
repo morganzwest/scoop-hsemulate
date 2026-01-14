@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/morganzwest/hsemulator/releases/download/v0.3.2/hsemulate-0.3.2-windows-x64.zip",
-      "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+      "hash": "091bf982b28b128be75bdfad65b0ab3a6970aae57c7a4e07df326bb13cd8d53d"
     }
   },
   "bin": "hsemulate.exe"
