@@ -1,12 +1,12 @@
 {
-  "version": "0.4.0",
+  "version": "4.1.0",
   "description": "Local emulator for HubSpot custom-coded workflow actions",
   "homepage": "https://github.com/morganzwest/hsemulator",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/morganzwest/hsemulator/releases/download/v0.4.0/hsemulate-0.4.0-windows-x64.zip",
-      "hash": "092658ac39b07b8b9a7dbe79e7f79772112c23bb406e1fa40f91074ac2852866"
+      "url": "https://github.com/morganzwest/hsemulator/releases/download/v4.1.0/hsemulate-4.1.0-windows-x64.zip",
+      "hash": "2f7e48f64f27842de98dbff0389f95005a9b25ab1e453175955034e8b362501f"
     }
   },
   "bin": "hsemulate.exe"
